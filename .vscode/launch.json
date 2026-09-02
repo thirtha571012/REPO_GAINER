@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BackendApplication",
+            "request": "launch",
+            "mainClass": "REPO_GAINER.backend.BackendApplication",
+            "projectName": "backend",
+            "cwd": "${workspaceFolder}/backend"
+        }
+    ]
+}
